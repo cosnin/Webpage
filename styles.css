@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  background: url(background-tile.png);
+  background-image: url(background-tile.png);
   /*background-color: #283149;*/
 }
 
